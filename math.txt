@@ -1,0 +1,10 @@
+PROCEDURE simple_math()
+{
+x <- 2
+y <- 4
+z <- 5
+
+a <- x + y + z
+DISPLAY(a)
+}
+simple_math()
